@@ -23,4 +23,4 @@
 
 
 
-![Tegar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tegar&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tegar&show_icons=true&theme=tokyonight)
